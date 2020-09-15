@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\kai\\勿动\\Info\\Lxk.Core\\Lxk.Core.Web.Host\\Lxk.Core\\Lxk.Core.csproj": {}
+  },
+  "projects": {
+    "E:\\kai\\勿动\\Info\\Lxk.Core\\Lxk.Core.Web.Host\\Lxk.Core\\Lxk.Core.csproj": {
+      "version": "1.9.15.4",
+      "restore": {
+        "projectUniqueName": "E:\\kai\\勿动\\Info\\Lxk.Core\\Lxk.Core.Web.Host\\Lxk.Core\\Lxk.Core.csproj",
+        "projectName": "Lxk.Core",
+        "projectPath": "E:\\kai\\勿动\\Info\\Lxk.Core\\Lxk.Core.Web.Host\\Lxk.Core\\Lxk.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\kai\\勿动\\Info\\Lxk.Core\\Lxk.Core.Web.Host\\Lxk.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://47.102.123.120:9900/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Abp.ZeroCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

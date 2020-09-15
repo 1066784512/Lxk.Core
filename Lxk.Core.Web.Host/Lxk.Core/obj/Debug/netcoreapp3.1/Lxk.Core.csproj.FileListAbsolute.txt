@@ -1,0 +1,8 @@
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\bin\Debug\netcoreapp3.1\Lxk.Core.deps.json
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\bin\Debug\netcoreapp3.1\Lxk.Core.dll
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\obj\Debug\netcoreapp3.1\Lxk.Core.AssemblyInfoInputs.cache
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\obj\Debug\netcoreapp3.1\Lxk.Core.AssemblyInfo.cs
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\obj\Debug\netcoreapp3.1\Lxk.Core.csproj.CoreCompileInputs.cache
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\bin\Debug\netcoreapp3.1\Lxk.Core.pdb
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\obj\Debug\netcoreapp3.1\Lxk.Core.dll
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\obj\Debug\netcoreapp3.1\Lxk.Core.pdb

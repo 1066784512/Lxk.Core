@@ -1,0 +1,10 @@
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\bin\Debug\netcoreapp3.1\netcoreapp3.1\Lxk.Core.Application.deps.json
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\bin\Debug\netcoreapp3.1\netcoreapp3.1\Lxk.Core.Application.dll
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\bin\Debug\netcoreapp3.1\netcoreapp3.1\Lxk.Core.Application.pdb
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\bin\Debug\netcoreapp3.1\netcoreapp3.1\Lxk.Core.Application.xml
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\obj\Debug\netcoreapp3.1\Lxk.Core.Application.csprojAssemblyReference.cache
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\obj\Debug\netcoreapp3.1\Lxk.Core.Application.AssemblyInfoInputs.cache
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\obj\Debug\netcoreapp3.1\Lxk.Core.Application.AssemblyInfo.cs
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\obj\Debug\netcoreapp3.1\Lxk.Core.Application.csproj.CoreCompileInputs.cache
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\obj\Debug\netcoreapp3.1\Lxk.Core.Application.dll
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Application\obj\Debug\netcoreapp3.1\Lxk.Core.Application.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lxk.Core</id>
+    <version>1.9.15.3</version>
+    <authors>XiaoKai Lee</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>这是项目核心包,底层建筑</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Abp.ZeroCore.EntityFrameworkCore" version="5.12.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core\bin\Debug\netcoreapp3.1\Lxk.Core.dll" target="lib\netcoreapp3.1\Lxk.Core.dll" />
+  </files>
+</package>
