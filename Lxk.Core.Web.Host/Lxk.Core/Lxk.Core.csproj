@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.9.15.5</Version>
+    <Version>1.10.19.2</Version>
     <Description>这是项目核心包,底层建筑</Description>
     <Authors>XiaoKai Lee</Authors>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>

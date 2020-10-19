@@ -7,3 +7,4 @@ E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Contract\obj\Debug\netcor
 E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Contract\obj\Debug\netcoreapp3.1\Lxk.Core.Contract.csproj.CoreCompileInputs.cache
 E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Contract\obj\Debug\netcoreapp3.1\Lxk.Core.Contract.dll
 E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Contract\obj\Debug\netcoreapp3.1\Lxk.Core.Contract.pdb
+E:\kai\勿动\Info\Lxk.Core\Lxk.Core.Web.Host\Lxk.Core.Contract\obj\Debug\netcoreapp3.1\Lxk.Core.Contract.csprojAssemblyReference.cache
