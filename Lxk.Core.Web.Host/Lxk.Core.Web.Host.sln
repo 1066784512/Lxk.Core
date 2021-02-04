@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxk.Core.Web.Host", "Lxk.Core.Web.Host\Lxk.Core.Web.Host.csproj", "{A9AA1930-00FD-4586-9618-19E174AB8C50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lxk.Core.Application", "Lxk.Core.Application\Lxk.Core.Application.csproj", "{43FBF5A6-AB24-4D73-97A4-1570C4FF1744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxk.Core.Application", "Lxk.Core.Application\Lxk.Core.Application.csproj", "{43FBF5A6-AB24-4D73-97A4-1570C4FF1744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lxk.Core.Contract", "Lxk.Core.Contract\Lxk.Core.Contract.csproj", "{AAA7458A-536D-4F2C-A4F7-7C0554BC4C60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxk.Core.Contract", "Lxk.Core.Contract\Lxk.Core.Contract.csproj", "{AAA7458A-536D-4F2C-A4F7-7C0554BC4C60}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxk.Core", "Lxk.Core\Lxk.Core.csproj", "{B9F92AFA-BEA4-4E54-BD20-C30A9145BC24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lxk.Core", "Lxk.Core\Lxk.Core.csproj", "{B9F92AFA-BEA4-4E54-BD20-C30A9145BC24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A9AA1930-00FD-4586-9618-19E174AB8C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9AA1930-00FD-4586-9618-19E174AB8C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9AA1930-00FD-4586-9618-19E174AB8C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9AA1930-00FD-4586-9618-19E174AB8C50}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43FBF5A6-AB24-4D73-97A4-1570C4FF1744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43FBF5A6-AB24-4D73-97A4-1570C4FF1744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43FBF5A6-AB24-4D73-97A4-1570C4FF1744}.Release|Any CPU.ActiveCfg = Release|Any CPU
